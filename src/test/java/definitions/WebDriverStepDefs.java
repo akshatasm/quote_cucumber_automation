@@ -99,7 +99,7 @@ public class WebDriverStepDefs {
 
     @Then("take a break")
     public void takeABreak() throws InterruptedException {
-        Thread.sleep(30000);
+        Thread.sleep(3000);
     }
 }
    
